@@ -1,0 +1,17 @@
+*.class
+target
+.directory
+.project
+.settings
+.classpath
+.idea
+*.iml
+*.ipr
+*.iws
+*.swp
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
